@@ -49,7 +49,9 @@ See `contributing.md` for ways to get started.
 
 ## References I used :)
 http://gibson042.github.io/canonicaljson-spec/
+
 https://github.com/gibson042/canonicaljson-go
+
 https://github.com/goccy/go-json
 
   
