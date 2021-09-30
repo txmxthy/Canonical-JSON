@@ -45,7 +45,6 @@ Change tests to use data file instead of hardcoded cases.
 
 Contributions are always welcome!
 
-See `contributing.md` for ways to get started.
 
 ## References I used :)
 http://gibson042.github.io/canonicaljson-spec/
