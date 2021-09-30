@@ -4,11 +4,11 @@
  <a href="#license">
 	<img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="License"></a>
 <a href="https://github.com/txmxthy/canon-json/issues">
-	<img src="https://img.shields.io/github/issues/txmxthy/demo_repo?style=for-the-badge" alt="issues - canon-json"></a>
+	<img src="https://img.shields.io/github/issues/txmxthy/canon-json?style=for-the-badge" alt="issues - canon-json"></a>
 <a href="https://github.com/txmxthy/canon-json">
-	<img src="https://img.shields.io/github/stars/txmxthy/demo_repo?style=for-the-badge" alt="stars - canon-json"></a>
+	<img src="https://img.shields.io/github/stars/txmxthy/canon-json?style=for-the-badge" alt="stars - canon-json"></a>
 <a href="https://github.com/txmxthy/canon-json">
-	<img src="https://img.shields.io/github/forks/txmxthy/demo_repo?style=for-the-badge" alt="forks - canon-json"></a>
+	<img src="https://img.shields.io/github/forks/txmxthy/canon-json?style=for-the-badge" alt="forks - canon-json"></a>
 </p>
 
 
