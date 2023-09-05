@@ -21,7 +21,7 @@
 
 
 ## About
-This project is home to my 3 hour 3am json canonical spec implementation pieced together from various resources (listed below)
+This project is home to my 3 hour 3am json canonical spec implementation!
 
 
 ### Key Features
@@ -46,7 +46,7 @@ Change tests to use data file instead of hardcoded cases.
 Contributions are always welcome!
 
 
-## References I used :)
+## References
 http://gibson042.github.io/canonicaljson-spec/
 
 https://github.com/gibson042/canonicaljson-go
