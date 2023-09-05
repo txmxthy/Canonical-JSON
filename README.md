@@ -1,5 +1,5 @@
 
-<h1 align="center">Welcome to canon-json 👋</h1>
+<h1 align="center">Welcome to Canon-JSON 👋</h1>
 <p align="center">
  <a href="#license">
 	<img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="License"></a>
