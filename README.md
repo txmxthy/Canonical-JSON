@@ -35,7 +35,7 @@ To test the project, just download the code and run the main_test.go file with
 ```bash
   go run main_test.go
 ```
-If you want to test breaking it I reccomend trying to flip the !first boolean in canonicalize then running the tests again. 
+If you want to test breaking it I recommend trying to flip the !first boolean in canonicalize then running the tests again. 
 
 
 ## Todo
